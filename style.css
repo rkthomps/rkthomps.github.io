@@ -1,0 +1,25 @@
+
+
+.title-div {
+    text-align: center;
+}
+
+.photo-bio {
+    display: flex;
+}
+
+.photo {
+    width: 40%;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;    
+}
+
+.bio {
+    width: 50%;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;    
+}
