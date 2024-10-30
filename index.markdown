@@ -6,7 +6,7 @@ layout: default
 ---
 
 ## About Me
-I am a second year Ph.D. student at UCSD working with [Sorin Lerner](https://cseweb.ucsd.edu/~lerner/).   
+I am a second year Ph.D. student at UCSD working with [Sorin Lerner](https://cseweb.ucsd.edu/~lerner/).
 I am interested in formal methods and machine learning. 
 
 ## Publications
