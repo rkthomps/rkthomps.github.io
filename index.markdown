@@ -10,7 +10,7 @@ I am a second year Ph.D. student at UCSD working with [Sorin Lerner](https://cse
 I am interested in formal methods and machine learning. 
 
 ## Publications
-- **Rango: Adaptive Retrieval-Augmented Proving for Automated Software Verification**   
+- **[Rango: Adaptive Retrieval-Augmented Proving for Automated Software Verification](docs/rango-final.pdf)**   
   Kyle Thompson, Nuno Saavedra, Pedro Carrott, Kevin Fisher, Alex Sanchez-Stern, Yuriy Brun, João Ferreira, Sorin Lerner, Emily First  
   *ICSE 2025*
 
